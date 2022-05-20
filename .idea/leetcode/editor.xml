@@ -344,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[686]重复叠加字符串匹配.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/doc/content/[686]重复叠加字符串匹配.md" />
+              <option name="frontendQuestionId" value="leetcode.cn686" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[686]重复叠加字符串匹配.java" />
+              <option name="titleSlug" value="repeated-string-match" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[704]二分查找.java">
           <value>
             <LeetcodeEditor>
@@ -377,6 +388,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[729]我的日程安排表 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/doc/content/[729]我的日程安排表 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn729" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[729]我的日程安排表 I.java" />
+              <option name="titleSlug" value="my-calendar-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[814]二叉树剪枝.java">
           <value>
             <LeetcodeEditor>
@@ -396,6 +418,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[816]模糊坐标.java" />
               <option name="titleSlug" value="ambiguous-coordinates" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[826]安排工作以达到最大收益.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/doc/content/[826]安排工作以达到最大收益.md" />
+              <option name="frontendQuestionId" value="leetcode.cn826" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[826]安排工作以达到最大收益.java" />
+              <option name="titleSlug" value="most-profit-assigning-work" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -440,6 +473,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[967]连续差相同的数字.java" />
               <option name="titleSlug" value="numbers-with-same-consecutive-differences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[969]煎饼排序.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/doc/content/[969]煎饼排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn969" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[969]煎饼排序.java" />
+              <option name="titleSlug" value="pancake-sorting" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -517,6 +561,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[剑指 Offer II 113]课程顺序.java" />
               <option name="titleSlug" value="QA2IGt" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[面试题 16.05]阶乘尾数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/doc/content/[面试题 16.05]阶乘尾数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 16.05" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5v/xjc40d4s4j998bbd715s1yx00000gn/T/leetcode/editor/cn/[面试题 16.05]阶乘尾数.java" />
+              <option name="titleSlug" value="factorial-zeros-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
